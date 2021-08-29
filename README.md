@@ -11,3 +11,5 @@ Ganhei uma medalha de prata na minha primeira olimpiada de astronomia (OBA)
 [Óptica.java](portf-lioT-cnico-2-a/LógicaComputação/Óptica.java)
 [per.sh]((portf-lioT-cnico-2-a/exercícios-shellScript/per.sh)
 [user.sh](portf-lioT-cnico-2-a/exercícios-shellScript/user.sh)
+[turno.java](portf-lioT-cnico-2-a/LógicaComputação/turno.java)
+
