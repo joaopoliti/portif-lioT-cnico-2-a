@@ -8,11 +8,16 @@ Atualmente no 2° ano A do ensino médio técnico em desenvolvimento de sistemas
 Nasci em São Paulo capital em 11/01/2004 (17 anos), terminei o fundamental na publica e depois prestei prova do Senai pra ganhar bolsa.
 Ganhei uma medalha de prata na minha primeira olimpiada de astronomia (OBA)
 
-[Óptica.java](portf-lioT-cnico-2-a/LógicaComputação/Óptica.java)
+###Sell's Scripts
 [per.sh](portf-lioT-cnico-2-a/exercícios-shellScript/per.sh)
-[user.sh](portf-lioT-cnico-2-a/exercícios-shellScript/user.sh)
-[turno.java](portf-lioT-cnico-2-a/LógicaComputação/turno.java)
-[idade.java](portf-lioT-cnico-2-a/LógicaComputação/idade.java)
+.
 [fatorial.sh](portf-lioT-cnico-2-a/exercícios-shellScript/fatorial.sh)
-
-
+.
+[user.sh](portf-lioT-cnico-2-a/exercícios-shellScript/user.sh)
+.
+###Java Códigos
+[turno.java](portf-lioT-cnico-2-a/LógicaComputação/turno.java)
+.
+[idade.java](portf-lioT-cnico-2-a/LógicaComputação/idade.java)
+.
+[Óptica.java](portf-lioT-cnico-2-a/LógicaComputação/Óptica.java)
