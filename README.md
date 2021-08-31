@@ -9,15 +9,15 @@ Nasci em São Paulo capital em 11/01/2004 (17 anos), terminei o fundamental na p
 Ganhei uma medalha de prata na minha primeira olimpiada de astronomia (OBA)
 
 ###Sell's Scripts
-[per.sh](portf-lioT-cnico-2-a/exercícios-shellScript/per.sh)
+[per.sh](exercícios-shellScript/per.sh)
 .
-[fatorial.sh](portf-lioT-cnico-2-a/exercícios-shellScript/fatorial.sh)
+[fatorial.sh](exercícios-shellScript/fatorial.sh)
 .
-[user.sh](portf-lioT-cnico-2-a/exercícios-shellScript/user.sh)
+[user.sh](exercícios-shellScript/user.sh)
 .
 ###Java Códigos
-[turno.java](portf-lioT-cnico-2-a/LógicaComputação/turno.java)
+[turno.java](LógicaComputação/turno.java)
 .
-[idade.java](portf-lioT-cnico-2-a/LógicaComputação/idade.java)
+[idade.java](LógicaComputação/idade.java)
 .
-[Óptica.java](portf-lioT-cnico-2-a/LógicaComputação/Óptica.java)
+[Óptica.java](LógicaComputação/Óptica.java)
