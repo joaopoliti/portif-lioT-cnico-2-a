@@ -8,14 +8,14 @@ Atualmente no 2° ano A do ensino médio técnico em desenvolvimento de sistemas
 Nasci em São Paulo capital em 11/01/2004 (17 anos), terminei o fundamental na publica e depois prestei prova do Senai pra ganhar bolsa.
 Ganhei uma medalha de prata na minha primeira olimpiada de astronomia (OBA)
 
-###Sell's Scripts
+### Sell's Scripts
 * [per.sh](exercícios-shellScript/per.sh)
 
 * [fatorial.sh](exercícios-shellScript/fatorial.sh)
 
 * [user.sh](exercícios-shellScript/user.sh)
 
-###Java Códigos
+### Java Códigos
 * [turno.java](LógicaComputação/turno.java)
 
 * [idade.java](LógicaComputação/idade.java)
