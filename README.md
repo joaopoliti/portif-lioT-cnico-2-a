@@ -9,15 +9,15 @@ Nasci em São Paulo capital em 11/01/2004 (17 anos), terminei o fundamental na p
 Ganhei uma medalha de prata na minha primeira olimpiada de astronomia (OBA)
 
 ###Sell's Scripts
-[per.sh](exercícios-shellScript/per.sh)
-.
-[fatorial.sh](exercícios-shellScript/fatorial.sh)
-.
-[user.sh](exercícios-shellScript/user.sh)
-.
+* [per.sh](exercícios-shellScript/per.sh)
+
+* [fatorial.sh](exercícios-shellScript/fatorial.sh)
+
+* [user.sh](exercícios-shellScript/user.sh)
+
 ###Java Códigos
-[turno.java](LógicaComputação/turno.java)
-.
-[idade.java](LógicaComputação/idade.java)
-.
-[Óptica.java](LógicaComputação/Óptica.java)
+* [turno.java](LógicaComputação/turno.java)
+
+* [idade.java](LógicaComputação/idade.java)
+
+* [Óptica.java](LógicaComputação/Óptica.java)
