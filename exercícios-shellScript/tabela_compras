@@ -1,0 +1,45 @@
+create table compras2 (
+	id serial primary key, 
+	nome varchar,
+	Obs varchar,
+	data date,
+	preço decimal,
+	status boolean);
+  
+insert into compras2 
+( nome, obs, data, preço, status)
+  values 
+
+  ( 'Coca', 'refrigerante 2L', '2021-01-08', 10.00, true),
+  ( 'Muçarela', 'queijo', '2021-01-11', 5.00, true),
+  ( 'Bala', 'doce', '2021-01-15', 0.25, true),
+  ( 'Chocolate', 'doce', '2021-01-18',5.50, false),
+  ( 'Baguete', 'pão', '2021-01-20', 1.00, true),
+  ( 'Granola', 'cereal', '2021-01-25', 7.50, false),
+  ( 'Alface', 'vegetal', '2021-01-27', 2.50, false),
+  ( 'Tomate', 'fruta', '2021-01-30', 1.50, true),
+  ( 'Laranja', 'fruta', '2021-02-03', 4.50, true),
+  ( 'Sprite', 'refrigerante', '2021-02-06', 5.50, true),
+  ( 'Omo', 'sabão em pó', '2021-02-09', 6.25, true),
+  ( 'Phebo', 'sabonete', '2021-02-11', 2.50, false),
+  ( 'Loreal', 'shamppo', '2021-02-15',8.75, false),
+  ( 'Doritos', 'salgadinho', '2021-02-18', 9.25, true),
+  ( 'Manga', 'frura', '20201-02-22', 3.40, true),
+  ( 'Mentos', 'bala', '2021-02-25', 2.25, false),
+  ( 'Leite', 'alimento animal', '2021-02-27', 2.50, true),
+  ( 'Skol', 'bebida alcolica', '2021-02-29', 3.40, true),
+  ( 'Bife', 'alimento animal', '2021-03-04', 10.75, false);
+
+select * from compras2
+
+select * from compras2 where data > '2020-01-01';
+
+select obs from compras2 where data >= '2021-01-01' and data < '2021-02-01';
+
+select id, obs from compras2 where data >= '2021-01-01' and data < '2021-02-01';
+
+select * from compras2 where preço >= 15 and preço <= 35;
+
+select * from compras2 where status = true;
+
+select * from compras2 where id = 10
