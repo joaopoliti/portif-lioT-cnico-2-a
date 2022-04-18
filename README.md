@@ -21,3 +21,5 @@ Ganhei uma medalha de prata na minha primeira olimpiada de astronomia (OBA)
 * [idade.java](LógicaComputação/idade.java)
 
 * [Óptica.java](LógicaComputação/Óptica.java)
+
+* [CalcGeometria.java](portiflioTecnico/LógicaComputação/CalcGeometria.java)
