@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="./css/calculadorasimples.css">
+</head>
+<body>
+    <h1>Calculadora</h1>
+    <div>
+        <label>Valor de X:</label>
+        <input type="number and letters" id="x" placeholder="inseria o valor de x">
+    </div>
+
+        <div>
+
+        <label>Valor de Y:</label>
+        <input type="number and letters" id="y" placeholder="inseria o valor de y">
+
+    </div>
+
+    <div>
+        <button type="button" onclick="todos()">
+          todos
+        </button>
+        <button type="button" onclick="somar()">
+            somar
+         </button>
+         <button type="button" onclick="subtrair()">
+            subtrair
+         </button>
+         <button type="button" onclick="dividir()">
+            dividir
+         </button>
+         <button type="button" onclick="multiplicar()">
+            multiplicar
+        
+    </div>
+
+    <script>
+        const somar = function(){
+            let x = parseFloat(document. getElementById('x').value)
+            let y = parseFloat(document. getElementById('y').value)
+            let resultado = x + y
+            alert(resultado)
+           }
+
+            const subtrair = function(){
+            let x = parseFloat(document. getElementById('x').value)
+            let y = parseFloat(document. getElementById('y').value)
+            let resultado = x - y
+            alert(resultado)
+           }
+
+           const multiplicar = function(){
+            let x = parseFloat(document. getElementById('x').value)
+            let y = parseFloat(document. getElementById('y').value)
+            let resultado = x * y
+            alert(resultado)
+            }
+
+            const dividir = function(){
+            let x = parseFloat(document. getElementById('x').value)
+            let y = parseFloat(document. getElementById('y').value)
+            let resultado = x / y
+            alert(resultado)
+           }
+
+            const calcular = function(){
+                somar()
+                subtrair()
+                multiplicar()
+                dividir()
+            
+            }
+
+            
+
+        
+        
+    </script>
+
+    
+
+</body>
+</html>
