@@ -15,6 +15,8 @@ Ganhei uma medalha de prata na minha primeira olimpiada de astronomia (OBA)
 
 * [user.sh](exercícios-shellScript/user.sh)
 
+* [ParqueDivercoes.sql](exercícios-shellScript/ParqueDivercoes.sql)
+
 ### Java Códigos
 * [turno.java](LógicaComputação/turno.java)
 
