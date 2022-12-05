@@ -18,7 +18,7 @@ Ganhei uma medalha de prata na minha primeira olimpiada de astronomia (OBA)
 * [ParqueDivercoes.sql](exercícios-shellScript/ParqueDivercoes.sql)
 
 ### Java Códigos
-* [CASODEMERDA6](LógicaComputação/turno.CASODEMERDA6.zip)
+* [CASODEMERDA6](LógicaComputação/CASODEMERDA6.zip)
 
 * [turno.java](LógicaComputação/turno.java)
 
